@@ -1,0 +1,6 @@
+{
+  "logId": "123456789",
+  "timestamp": "2023-04-14T12:34:56Z",
+  "level": "INFO",
+  "service": "UserService"
+}
