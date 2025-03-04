@@ -1,0 +1,15 @@
+{
+  "logId": "123456789",
+  "timestamp": "2023-04-14T12:34:56Z",
+  "level": "INFO",
+  "service": "UserService",
+  "message": "User login successful",
+  "userId": "user_001",
+  "sessionId": "sess_987654321",
+  "ipAddress": "192.168.1.10",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+  "additionalData": {
+    "location": "New York, USA",
+    "device": "Desktop"
+  }
+}
